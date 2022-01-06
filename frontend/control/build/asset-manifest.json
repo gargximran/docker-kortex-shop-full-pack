@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8969d370.chunk.css",
+    "main.js": "/static/js/main.80a5d92b.chunk.js",
+    "main.js.map": "/static/js/main.80a5d92b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a1546fd9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a1546fd9.js.map",
+    "static/css/2.0aec7606.chunk.css": "/static/css/2.0aec7606.chunk.css",
+    "static/js/2.c3bd4ea7.chunk.js": "/static/js/2.c3bd4ea7.chunk.js",
+    "static/js/2.c3bd4ea7.chunk.js.map": "/static/js/2.c3bd4ea7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0aec7606.chunk.css.map": "/static/css/2.0aec7606.chunk.css.map",
+    "static/css/main.8969d370.chunk.css.map": "/static/css/main.8969d370.chunk.css.map",
+    "static/js/2.c3bd4ea7.chunk.js.LICENSE.txt": "/static/js/2.c3bd4ea7.chunk.js.LICENSE.txt",
+    "static/media/add_product.0d01bfb3.svg": "/static/media/add_product.0d01bfb3.svg",
+    "static/media/celebration.d59b9e77.svg": "/static/media/celebration.d59b9e77.svg",
+    "static/media/checkmark.a1e1fd14.svg": "/static/media/checkmark.a1e1fd14.svg",
+    "static/media/shuttle.753e2e67.svg": "/static/media/shuttle.753e2e67.svg",
+    "static/media/index.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/trophyIcon.ac334390.svg": "/static/media/trophyIcon.ac334390.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1546fd9.js",
+    "static/css/2.0aec7606.chunk.css",
+    "static/js/2.c3bd4ea7.chunk.js",
+    "static/css/main.8969d370.chunk.css",
+    "static/js/main.80a5d92b.chunk.js"
+  ]
+}

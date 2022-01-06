@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="up_arrow" data-name="up arrow" transform="translate(48) rotate(90)">
+    <path id="Path_17411" data-name="Path 17411" d="M6,0A6,6,0,0,0,0,6V42a6,6,0,0,0,6,6H42a6,6,0,0,0,6-6V6a6,6,0,0,0-6-6ZM25.061,31.939a1.5,1.5,0,1,1-2.124,2.124l-9-9a1.5,1.5,0,0,1,0-2.124l9-9a1.5,1.5,0,1,1,2.124,2.124L18.621,22.5H33a1.5,1.5,0,0,1,0,3H18.621l6.441,6.439Z" fill-rule="evenodd"/>
+  </g>
+</svg>
